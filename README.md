@@ -1,4 +1,4 @@
-# Kodi export addon
+# Kodi CSV export addon
 An addon for Kodi which allows selective CSV exporting of Kodi video and 
 music database data.
 
