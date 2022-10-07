@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon  id="plugin.program.kodiexport" name="Kodi Export" version="1.0.0" provider-name="jbinkley60">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>    
+  
+  <extension point="xbmc.python.script" library="kodiexport.py">
+    <provides>executable</provides>
+  </extension>
+ 
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.jpg</fanart>
+    </assets>
+    <summary lang="en_GB">Utility to allow selective CSV exporting of Kodi music and video DB data</summary>
+    <description lang="en_GB">Utility to allow selective CSV exporting of Kodi music and video DB data</description>
+    <forum>https://forum.kodi.tv/showthread.php?tid=365429</forum>
+    <source>https://github.com/jbinkley60/service.autostop</source>
+  </extension>
+</addon>

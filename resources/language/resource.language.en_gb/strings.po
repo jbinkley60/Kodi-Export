@@ -1,0 +1,37 @@
+# Kodi Media Center language file
+# Addon Name: Autostop
+# Addon id: program.kodiexport
+# Addon Provider: Jeff B.
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: jeff@thebinks.com\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jeff B.\n"
+"Language-Team: English"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30300"
+msgid "Kodi database extract successful at: \n"
+msgstr ""
+
+msgctxt "#30301"
+msgid "Kodi Database Export"
+msgstr ""
+
+msgctxt "#30302"
+msgid "Mezzmo experienced an error exporting database table:  "
+msgstr ""
+
+msgctxt "#30303"
+msgid "Kodi Export Error for Database"
+msgstr ""
+
+msgctxt "#30304"
+msgid "Select Database Table(s) to Export"
+msgstr ""
