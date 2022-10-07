@@ -16,7 +16,7 @@
     </assets>
     <summary lang="en_GB">Utility to allow selective CSV exporting of Kodi music and video DB data</summary>
     <description lang="en_GB">Utility to allow selective CSV exporting of Kodi music and video DB data</description>
-    <forum>https://forum.kodi.tv/showthread.php?tid=365429</forum>
-    <source>https://github.com/jbinkley60/service.autostop</source>
+    <forum>https://forum.kodi.tv/showthread.php?tid=369938</forum>
+    <source>https://github.com/jbinkley60/Kodi-Export</source>
   </extension>
 </addon>
